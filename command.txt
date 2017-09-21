@@ -1,0 +1,5 @@
+python3 sqltomongo.py
+rm out.txt
+touch out.txt
+python3 mongobase.py
+
