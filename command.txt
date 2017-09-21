@@ -3,3 +3,6 @@ rm out.txt
 touch out.txt
 python3 mongobase.py
 
+open http://13.113.224.1:8080/#/editor
+
+echo |cat out.txt | pbcopy
